@@ -1,0 +1,1 @@
+RasterDrawing([(Rectangle(18, 7, 5, 12), '#'), (Rectangle(4, 4, 12, 15), ' '), (Triangle(18, 10.816, 10.816, 5, 12), '^'), (CompoundShape([Rectangle(2, 6, 34, 13), Circle(4, 35, 10)]), '@'), (Circle(4, 50, 4), 'O')])
